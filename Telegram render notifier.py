@@ -7,7 +7,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (3, 3, 0),
     "location": "Render Properties > Render Engine",
-    "description": "Sends a Telegram message when a render is complete",
+    "description": "Sends a Telegram message when render is complete",
     "warning": "this addon is in beta version",
     "doc_url": "https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier",
     "tracker_url": "https://t.me/klimasevskiy",
