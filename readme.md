@@ -1,4 +1,4 @@
-# Render Completed Telegram Notifier
+# Render Completed Telegram Notifier Add-on
 
 ![Group (2).png](Render%20Completed%20Telegram%20Notifier%20f167d06371a041b59f3c60094bde3b83/Group_(2).png)
 
