@@ -21,9 +21,9 @@ And the following video formats: AVI JPEG, AVI RAW, FFMPEG.**
 
 ## Installation
 
-1. Download the repository and extract "Telegram render notifier.py".
+1. Download release
 2. Open Blender and go to **Edit > Preferences > Add-ons**
-3. Click Install... and select the **"Telegram render notifier.py"**.
+3. Click Install... and select the **"Telegram-render-notifier-X_X.py"**.
     
     ![Untitled](Render%20Completed%20Telegram%20Notifier%20f167d06371a041b59f3c60094bde3b83/Untitled.png)
     
