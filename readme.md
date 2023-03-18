@@ -9,6 +9,7 @@
 - Sends a message to Telegram indicating that a render has completed.
 - Includes project filepath in the message.
 - Change **bot`s token** and **chat id** directly in blender
+- 2.0 Sends image(or last frame of animation)
 
 ## Requirements
 
