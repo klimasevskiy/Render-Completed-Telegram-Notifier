@@ -5,6 +5,8 @@
 # **A Simple Blender Add-on that sends a Telegram message when a render is complete.**
 
 ## Now sends image(or last frame of animation)
+**⚠️IMPORTANT: Sends a render image ONLY if the following output image formats are specified: BMP, PNG, JPEG, WEBP.
+And the following video formats: AVI JPEG, AVI RAW, FFMPEG.**
 
 ## Features
 
@@ -16,8 +18,6 @@
 
 1. Blender 3.3.0 (if you tested this addon on other versions, contact me: [telegram](https://file+.vscode-resource.vscode-cdn.net/d%3A/python/telegram%20notificator%20addon/t.me/klimasevskiy))
 2. A Telegram bot with a valid bot token and a chat ID
-3. **IMPORTANT: Sends a render image ONLY if the following output image formats are specified: BMP, PNG, JPEG, WEBP.
-And the following video formats: AVI JPEG, AVI RAW, FFMPEG.**
 
 ## Installation
 
